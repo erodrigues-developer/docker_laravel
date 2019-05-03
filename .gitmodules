@@ -1,0 +1,3 @@
+[submodule "is_cool"]
+	path = is_cool
+	url = https://github.com/erodrigues-developer/is_cool.git
